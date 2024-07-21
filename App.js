@@ -38,7 +38,9 @@ const handleText = ()=>{
 
       </View>
 
-     
+       
+
+       
 
       <View style={styles.footerContainer}>
       <ScrollView style={styles.ugo}>
