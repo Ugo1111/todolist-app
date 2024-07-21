@@ -38,10 +38,6 @@ const handleText = ()=>{
 
       </View>
 
-       
-ugoooooooooo
-
-
       <View style={styles.footerContainer}>
       <ScrollView style={styles.ugo}>
         <KeyboardAvoidingView behavior={Platform.OS === "ios" ? "padding" : "height"} style={styles.inputContainer} >
